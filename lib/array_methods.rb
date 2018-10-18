@@ -1,6 +1,6 @@
 def using_include(array, element)
 
-  if array == array.include("array","element")
+  if array == array.include(array,element)
     return true
   else
     return false
