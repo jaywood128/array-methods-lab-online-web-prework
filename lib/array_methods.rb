@@ -1,6 +1,6 @@
 def using_include(array, element)
-
-  if array == array.include(array,element)
+new_array = comparison_array[array1, element1]
+  if array == new_array.include(array1,element1)
     return true
   else
     return false
