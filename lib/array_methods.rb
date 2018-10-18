@@ -1,5 +1,5 @@
 def using_include(array, element)
-  if array === array.include(element)
+  if array === array.include("element")
     true
   else
     false
